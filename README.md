@@ -1,3 +1,4 @@
+[![Profile badge](https://www.codewars.com/users/denistouch/badges/large)](https://www.codewars.com/users/denistouch)
 - 👋 Hi, I’m @denistouch
 - 👀 I’m interested in mobile development on Java
 - 🌱 I’m currently learning Android
