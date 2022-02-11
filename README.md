@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - denistouch@gmail.com
-- 💻 I am currently working on php
+- 💻 I am currently working as a web developer on php
 
 <!---
 denistouch/denistouch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
